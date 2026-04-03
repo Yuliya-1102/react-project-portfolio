@@ -54,7 +54,7 @@ export const slideInVariants = (
 
 export const titleVariants = {
     hidden: {y: -50, opacity: 0},
-    visible: {y: 0, opacity: 0.1, transition: {duration: 0.8}}
+    visible: {y: 0, opacity: 0.3, transition: {duration: 0.8}}
 }
 
 export const subtitleVariants = {
